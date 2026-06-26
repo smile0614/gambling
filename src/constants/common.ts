@@ -137,13 +137,6 @@ export const LANGUAGE_DATA: {
     currencyAlias: 'Vietnam',
   },
   {
-    language: '한국어',
-    key: 'ko',
-    href: '#',
-    currency: 'KRW',
-    currencyAlias: 'Korea',
-  },
-  {
     language: '汉语',
     key: 'zh',
     href: '#',

@@ -2,7 +2,6 @@ import { default as en } from './en.json';
 import { default as vi } from './vi.json';
 import { default as id } from './id.json';
 import { default as ja } from './ja.json';
-import { default as ko } from './ko.json';
 import { default as fr } from './fr.json';
 import { default as es } from './es.json';
 import { default as ar } from './ar.json';
@@ -25,7 +24,6 @@ const resources = {
   vi,
   id,
   ja,
-  ko,
   fr,
   es,
   ar,
